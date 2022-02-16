@@ -1,0 +1,79 @@
+LEGAMIA -------------------------------
+R1_1 Stop
+R1_2 Give way
+R1_3 Left turner must give way
+R2_1 No turns
+R2_2 One way
+R2_3 Keep right
+R2_4 Pass either side
+R2_5 All traffic
+R2_6 Merging traffic
+R2_7 Two way
+R2_8L Right lane must turn right
+R2_8R Left lane must turn left
+R3_1 No entry for all vehicles
+R3_2 No entry for cars
+R3_3 No entry for jeepneys
+R3_4 No entry for bicycles
+
+ORTEGA --------------------------------
+R3_5 No entry for motorcycles
+R3_6 No entry for tricycles
+R3_7 No entry for buses
+R3_8 No entry for trucks
+R3_9 No entry for vehicles with trailer
+R3_10 No entry for pedestrians
+R3_11 No entry for animal drawn vehicles
+R3_12 No entry for pushcarts
+R3_13 No right turn
+R3_14 No left turn
+R3_15 No u-turn
+R3_16 No overtaking
+
+BITANCOR ------------------------------
+R4_1_20 Maximum speed restriction
+R4_1_30 Maximum speed restriction
+R4_1_40 Maximum speed restriction
+R4_1_60 Maximum speed restriction
+R4_1_80 Maximum speed restriction
+R4_1_100 Maximum speed restriction
+
+ORTEGA --------------------------------
+R4_2 Speed de-restriction
+R4_3_40 Minimum speed restriction
+R5_1P No parking
+
+SUMO ----------------------------------
+R5_1S No parking 
+R5_2P No parking, loading only
+R5_3P No parking anytime
+R5_3C No parking, tow-away zone
+R5_4 Time restricted parking
+R5_4A Time restricted parking
+R5_4B Time restricted loading zone
+R5_4C Loading and unloading zone
+R5_5 No waiting anytime
+R5_5A Time restricted no waiting
+R5_5B No waiting anytime
+R5_6 No loading and unloading anytime
+R5_6A No loading and unloading
+R5_7 No loading and unloading anytime
+R5_8 No stopping anytime
+R5_9A Bus stop
+
+DAYAO ---------------------------------
+R5_9B PUJ stop
+R5_9C BUS and PUJ stop
+R5_10 Do not block intersection
+R5_11 Right turners cross at broken white lines
+R6_1 No blowing of horns
+R6_2 Width restriction
+R6_3 Height restriction
+R6_4 Weight restriction
+R6_5 Weight restriction per axle
+R6_6 Length restriction
+R6_7 Fasten seatbelt
+R6_8 Pedestrians crossing
+R6_9 School children crossing
+R6_10 Bike lane
+R6_11 wheel chair crossing
