@@ -1,3 +1,8 @@
+NOTES:
+-<<File name>>[Space]<<Text-to-Speech>>
+-Website: https://freetts.com/
+--Voices: en-US-Standard-B
+
 LEGAMIA -------------------------------
 R1_1 Stop
 R1_2 Give way
